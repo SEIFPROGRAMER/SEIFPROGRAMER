@@ -4,13 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seifprogramer&label=Profile%20views&color=0e75b6&style=flat" alt="seifprogramer" /> </p>
 
 
-- 🔭 I’m currently working on **Get Notified**
+- 🔭 I’m currently working on **WildLife**
 
 - 🌱 I’m currently learning **Get Notified**
 
-- 👯 I’m looking to collaborate on **Get Notified**
+- 👯 I’m looking to collaborate on **WildLife**
 
-- 🤝 I’m looking for help with **Get Notified**
+- 🤝 I’m looking for help with **WildLife**
 
 - 👨‍💻 All of my projects are available at [github.com/SEIFPROGRAMER](github.com/SEIFPROGRAMER)
 
@@ -22,7 +22,7 @@
 
 - 📄 Know about my experiences [seifprogramer.github.io](seifprogramer.github.io)
 
-- ⚡ Fun fact **I Am Making A Programing Languge**
+- ⚡ Fun fact **I Am Making Something Called WildLife**
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
