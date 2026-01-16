@@ -6,15 +6,11 @@
 
 - 🔭 I’m currently working on **WildLife**
 
-- 🌱 I’m currently learning **Get Notified**
+- 👯 I’m looking to collaborate on **My Main Website**
 
-- 👯 I’m looking to collaborate on **WildLife**
-
-- 🤝 I’m looking for help with **WildLife**
+- 🤝 I’m looking for help with **My Main Website**
 
 - 👨‍💻 All of my projects are available at [github.com/SEIFPROGRAMER](github.com/SEIFPROGRAMER)
-
-- 📝 I regularly write articles on [en.wikipedia.org](en.wikipedia.org)
 
 - 💬 Ask me about **GitHub**
 
@@ -22,7 +18,7 @@
 
 - 📄 Know about my experiences [seifprogramer.github.io](seifprogramer.github.io)
 
-- ⚡ Fun fact **I Am Making Something Called WildLife**
+- ⚡ Fun fact **I Am Making Games**
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
